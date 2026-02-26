@@ -1,0 +1,61 @@
+.logo{
+    width: 70px; 
+    height: 70px; 
+    
+}
+.art{
+
+    width: 200px; 
+    height: 200px; 
+}
+nav{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+h1{
+    position: relative;
+    left: 40%;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+
+}
+
+.pai{
+       justify-content: center;
+    display: flex;
+    gap: 20px;
+
+}
+
+
+body{
+    background-color: rgb(232, 194, 216);
+}
+
+button:hover{
+    background-color: aqua;
+    
+}
+button{
+
+    position: relative;
+    left: 700px;
+    top: 200px;
+}
+.filha{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+p{
+    background-color: rgb(184, 172, 196);
+}
+.arte2{
+    width:100px ;
+    height: 100px;
+}
+
